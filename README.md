@@ -16,6 +16,15 @@ With a background combining quantitative analysis from engineering and economics
 - **Description:** A research project where I boosted the LLaMA-3.1 model's performance by **15%** through hands-on **LoRA fine-tuning**.
 - **[➡️ View Repository](https://github.com/TamasCsakvari/finetune-llm-for-oie)**
 
+### 3. Docs-AI Minimal — FastAPI RAG Microservice
+- **Description:** Retrieval-augmented PDF Q&A API using **FastAPI**, **Gemini 1.5 Flash**, and **Embedding-001 (768-d)** with **PostgreSQL + pgvector (IVFFLAT)** for cosine similarity, **Redis** caching, **LangGraph** workflows, and **Docker Compose** for local dev.
+- **[➡️ View Repository](https://github.com/TamasCsakvari/docs-ai-minimal)**
+
+### 4. Coffee Vending Sales Analytics Dashboard
+- **Description:** **Power BI** sales dashboard on **Azure SQL Database** (provisioned via **Terraform IaC**) using a **Kaggle** dataset—**Power Query** for ETL, **DAX** for measures, secure firewall allowlisting, and direct SQL connections for scheduled/near-real-time refresh.
+- **[➡️ View Repository](https://github.com/TamasCsakvari/analytics-dashboard-retail-coffee-sales)**
+
+
 ---
 
 ## 📫 Let's Connect
